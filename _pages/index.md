@@ -61,9 +61,9 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
-- **Sep 2024**: I'm thrilled to receive the 2025 [IMS Lawrence D. Brown PhD student award](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)!
+- **Sept 2024**: I'm thrilled to receive the 2025 [IMS Lawrence D. Brown PhD student award](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
-- **Sep 2024**: My [paper](https://arxiv.org/abs/2110.13406) on optimal variance reduction in online experiments (2021 internship project at LinkedIn) receives the 2024 [Jack Youden Prize](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6644975/) for the best expository paper in Technometrics! Thank you, ASQ/ASA!
+- **Sept 2024**: My [paper](https://arxiv.org/abs/2110.13406) on optimal variance reduction in online experiments (2021 internship project at LinkedIn) receives the 2024 [Jack Youden Prize](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6644975/) for the best expository paper in Technometrics! Thank you, ASQ/ASA!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **May 2024**: Outputs from black-box foundation models must align with human values before their use. For example, can we make sure only *human-quality* AI-generated medical reports are deferred to doctors? Check out our new paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) which certifies *aligned* outputs to deploy with FDR control!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
