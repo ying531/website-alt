@@ -61,7 +61,7 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
-- **Sept 2024**: Outputs from black-box foundation models must align with human values before their use. For example, can we make sure only *human-quality* AI-generated medical reports are deferred to doctors? Our paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) provides a general recipe for certifying *aligned* outputs to deploy with FDR control. It's now accepted to NeurIPS 2024!
+- **Sept 2024**: Outputs from black-box foundation models must align with human values before their use. For example, can we make sure only *human-quality* AI-generated medical reports are deferred to doctors? Our paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) provides a general recipe for certifying *aligned/reliable* outputs to deploy with FDR control. It's now accepted to NeurIPS 2024!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **Sept 2024**: I'm thrilled to receive the 2025 [IMS Lawrence D. Brown PhD student award](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
