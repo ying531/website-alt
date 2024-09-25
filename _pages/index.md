@@ -61,16 +61,16 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
+- **Sept 2024**: Outputs from black-box foundation models must align with human values before their use. For example, can we make sure only *human-quality* AI-generated medical reports are deferred to doctors? Our paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) provides a general recipe for certifying *aligned* outputs to deploy with FDR control. It's now accepted to NeurIPS 2024!
+<p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **Sept 2024**: I'm thrilled to receive the 2025 [IMS Lawrence D. Brown PhD student award](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
-- **Sept 2024**: My [paper](https://arxiv.org/abs/2110.13406) on optimal variance reduction in online experiments (2021 internship project at LinkedIn) receives the 2024 [Jack Youden Prize](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6644975/) for the best expository paper in Technometrics! Thank you, ASQ/ASA!
-<p style="margin-top: 0px; margin-bottom: -5px;"></p> 
-- **May 2024**: Outputs from black-box foundation models must align with human values before their use. For example, can we make sure only *human-quality* AI-generated medical reports are deferred to doctors? Check out our new paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) which certifies *aligned* outputs to deploy with FDR control!
+- **Sept 2024**: My [paper](https://arxiv.org/abs/2110.13406) on optimal variance reduction in online experiments (2021 internship project at LinkedIn) receives the 2024 [Jack Youden Prize](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6644975/) for the best expository paper in Technometrics! Thank you, ASQ/ASA! 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **March 2024**: How to quantify the uncertainty for an "interesting" unit picked by a complicated, data-driven process? Check out [JOMI](https://arxiv.org/abs/2403.03868), our framework for conformal prediction with selection conditional coverage!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
-- **Sept 2023**:  I'll be giving a seminar at *Genentech Inc.* on how to leverage model-free selective inference and conformal inference [[1](https://arxiv.org/abs/2210.01408), [2](https://arxiv.org/abs/2307.09291)] for reliable AI-assisted drug discovery. 
+- **Sept 2023**:  I'll be giving a seminar at *Genentech* on leveraging Conformal Selection [[1](https://arxiv.org/abs/2210.01408), [2](https://arxiv.org/abs/2307.09291)] for reliable AI-assisted drug discovery. 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **Sept 2023**:  Scientists often refer to distribution shifts when effects from two studies differ, e.g. in replicability failure. Do they really contribute? See our [preprint](https://arxiv.org/abs/2309.01056) for a formal diagnosis framework. Play with our [live app](https://mbzlnj-ying-jin.shinyapps.io/shiny/), or explore our [data repository](https://github.com/ying531/awesome-replicability-data)! I gave an invited talk about it in the [Causality in Practice](https://quarter-on-causality.github.io/practice/) Conference.
  

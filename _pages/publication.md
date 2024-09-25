@@ -14,9 +14,6 @@ layout: archive
 
 
 
- - <span style="font-weight: 600;">Conformal alignment: knowing when to trust foundation models with guarantees</span>   
- <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024. [Arxiv](https://arxiv.org/abs/2405.10301)</span> 
- 
 
  - <span style="font-weight: 600;">Confidence on the focal: Conformal prediction with selection-conditional coverage</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024. [Arxiv](https://arxiv.org/abs/2403.03868)</span> 
@@ -55,6 +52,10 @@ layout: archive
 ## Publications
 
 
+ - <span style="font-weight: 600;">Conformal alignment: knowing when to trust foundation models with guarantees</span>   
+ <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024.</span>    
+ <span style="color:grey;font-size:14px;">Conference on Neural Information Processing Systems (NeurIPS), 2024.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2405.10301) | [GitHub](https://github.com/yugjerry/conformal-alignment)</span> 
+ 
 
 - <span style="font-weight: 600;">Uncertainty quantification over graph with conformalized graph neural networks</span>         
   <span style="font-size:14px;">Kexin Huang, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Emmanuel Candès, and Jure Leskovec.</span>  
@@ -142,7 +143,7 @@ layout: archive
 
 - <span style="font-weight: 600;">Computational-statistical tradeoffs in inferring combinatorial structures of Ising model</span>      
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px">, Zhaoran Wang, and Junwei Lu.</span>  
- <span style="color:grey;font-size:14px;">International Conference on Machine Learning (ICML), 2020</span>. <span style="font-size:14px">[ICML](http://proceedings.mlr.press/v119/jin20g.html)</span>
+ <span style="color:grey;font-size:14px;">International Conference on Machine Learning (ICML), 2020</span>. <span style="font-size:14px">[PMLR](http://proceedings.mlr.press/v119/jin20g.html)</span>
 
 
 
