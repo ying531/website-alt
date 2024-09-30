@@ -11,6 +11,7 @@ layout: archive
 - **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**  
   - *ENAR Annual Meeting, March 2025*  
   - *International Conference on Statistics and Data Science, December 2024*  
+  - *ASA Conference on Statistical Learning and Data Science, November 2024*  
   - *Joint Conference on Statistics and Data Science, China, July 2024*
 
 <span> </span>
@@ -21,7 +22,7 @@ layout: archive
 <span> </span>
 
 
-- **Diagnosing the Role of Observable Distribution Shift in Scientific Replications**    
+- **Diagnosing the Role of Distribution Shift in Effect Generalization with Scientific Replication Data**    
   - *Harvard Applied Statistics Workshop, September 2024* 
   - *Joint Statistical Meetings, August 2024*  
   - *Inaugural Berkeley-Stanford Workshop on Veridical Data Science (lightning talk), May 2024*
