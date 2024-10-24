@@ -11,7 +11,8 @@ layout: archive
 - **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**  
   - *ENAR Annual Meeting, March 2025*  
   - *International Conference on Statistics and Data Science, December 2024*  
-  - *ASA Conference on Statistical Learning and Data Science, November 2024*  
+  - *ASA Conference on Statistical Learning and Data Science, November 2024* 
+  - *Data Science and Engineering Lab, Michigan State Universty, October 2024*  
   - *Joint Conference on Statistics and Data Science, China, July 2024*
 
 <span> </span>
