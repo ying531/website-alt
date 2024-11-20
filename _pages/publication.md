@@ -4,14 +4,10 @@ permalink: /publication/
 classes: wide
 layout: archive
 ---
- 
-   
+  
  
 ## Preprints
-
-<!--  - [Natural distribution shift: evidence from multi-site replication studies]()   
- **Ying Jin**, Naoki Egami, and Dominik Rothenhäusler, 2024.-->
-
+ 
 
 
 
@@ -113,8 +109,7 @@ layout: archive
 
 - <span style="font-weight: 600;">Is pessimism provably efficient for offline RL?</span>   
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px">, Zhuoran Yang, and Zhaoran Wang.</span>  
-  <span style="color:grey;font-size:14px;">Mathematics of Operations Research, 2024+</span>.    
-  <span style="font-size:14px">*Short version in ICML 2021*. [Arxiv](https://arxiv.org/pdf/2012.15085.pdf) | [RL seminar talk](https://www.youtube.com/watch?v=vo6HZUDXE1w) | [Slides](/assets/files/slides_pessimism.pdf)</span>   
+  <span style="color:grey;font-size:14px;">Mathematics of Operations Research, 2024+</span>. <span style="font-size:14px">Short version in ICML 2021. [MathOR](https://pubsonline.informs.org/doi/full/10.1287/moor.2022.0216) | [Arxiv](https://arxiv.org/pdf/2012.15085.pdf) | [RL seminar talk](https://www.youtube.com/watch?v=vo6HZUDXE1w) | [Slides](/assets/files/slides_pessimism.pdf)</span>   
 
 
 
