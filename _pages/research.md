@@ -34,7 +34,7 @@ This page provides an overview of my research topics. See my publication list [h
 #### - Conformal selective inference
  <p style="margin-top: -10px;"></p> 
 
-- <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Y. Jin</span>. <span style="font-size:14px;">*Optimized Conformal Selection: Powerful and Valid Testing after Conformity Score Optimization.* [Arxiv](https://arxiv.org/abs/2403.03868)</span>  
+- <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Y. Jin</span>. <span style="font-size:14px;">*Optimized Conformal Selection: Powerful selective inference after conformity score optimization.* [Arxiv](https://arxiv.org/abs/2403.03868)</span>  
  - <span style="font-size:14px;font-weight:500;">Y. Jin\*</span><span style="font-size:14px;"> and Z. Ren\*.</span>   <span style="font-size:14px;">*Confidence on the focal: Conformal prediction with selection-conditional coverage.* [Arxiv](https://arxiv.org/abs/2403.03868)</span>   
  - <span style="font-size:14px;font-weight:500;">Y. Jin</span><span style="font-size:14px;"> and E. Candès. *Model-free selective inference under covariate shift via weighted conformal p-values.* [Arxiv](https://arxiv.org/abs/2307.09291)</span>   
 - <span style="font-size:14px;font-weight:500;">Y. Jin</span><span style="font-size:14px"> and E. Candès. *Selection by prediction with conformal p-values.* </span> <span style="color:grey;font-size:14px;">Journal of Machine Learning Research, 2023.</span> 
@@ -44,7 +44,7 @@ This page provides an overview of my research topics. See my publication list [h
 #### - Application to Biomedical AI
  <p style="margin-top: -10px;"></p> 
 
- - <span style="font-size:14px;">Y. Gui\*, </span><span style="font-size:14px;font-weight:500;">Y. Jin\*</span><span style="font-size:14px;"> and Z. Ren\*. *Conformal alignment: knowing when to trust foundation models with guarantees.* [Arxiv](https://arxiv.org/abs/2405.10301)</span>  
+ - <span style="font-size:14px;">Y. Gui\*, </span><span style="font-size:14px;font-weight:500;">Y. Jin\*</span><span style="font-size:14px;"> and Z. Ren\*. *Conformal alignment: knowing when to trust foundation models with guarantees.* <span style="color:grey;font-size:14px;">Conference on Neural Information Processing Systems (NeurIPS), 2024</span> 
   
 
 

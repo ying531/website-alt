@@ -8,11 +8,12 @@ layout: archive
  
 ## Preprints
  
-
+ - <span style="font-weight: 600;">Optimized Conformal Selection: Powerful selective inference after conformity score optimization</span>   
+ <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2024. [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span> 
 
 
  - <span style="font-weight: 600;">Confidence on the focal: Conformal prediction with selection-conditional coverage</span>   
- <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024. [Arxiv](https://arxiv.org/abs/2403.03868)</span> 
+ <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024. [Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
  
 
  - <span style="font-weight: 600;">Diagnosing the role of observable distribution shift in scientific replications</span>          

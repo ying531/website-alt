@@ -35,11 +35,11 @@ I currently help organize the [Online Causal Inference Seminar](https://sites.go
 I work on statistical problems related to two main themes:
 
 - **Uncertainty quantification**    
-I am interested in understanding the uncertainty of black-box AI models for their confident deployment in critical domains. Specifically, I think about what guarantees are meaningful, how to achieve them with easy-to-use, widely-applicable methods, and their applications in biomedical discovery and human decisions.   
+I develop methods to quantify and control the uncertainty of black-box AI models for their confident deployment in critical domains. Specifically, I think about what guarantees are meaningful, how to achieve them with easy-to-use, widely-applicable methods, and their applications in biomedical discovery and human decisions.   
  
 - **Generalizability and robustness**   
 I am interested in understanding the generalization and robustness of statistical findings across datasets, populations, and contexts. Specifically, 
-I study the nature of real distribution shifts, models to describe them, and methods to protect against or adapt to them in generalizing treatment effects, replicating causal experiments, and learning decision rules. 
+I study the (empirical) nature of real distribution shifts, models to describe them, and methods to protect against or adapt to them in generalizing treatment effects, replicating causal experiments, and learning decision rules. 
 
 These questions lead me to the fields of conformal prediction, causal inference, and multiple testing.
 
@@ -61,7 +61,9 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
-- **Sept 2024**: Outputs from black-box foundation models must align with human values before their use. For example, can we make sure only *human-quality* AI-generated medical reports are deferred to doctors? Our paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) provides a general recipe for certifying *aligned/reliable* outputs to deploy with FDR control. It's now accepted to NeurIPS 2024!
+- **Nov 2024**: Excited to share new work on [Optimized Conformal Selection](https://arxiv.org/abs/2411.17983) with amazing collaborator [Tian Bai](https://tian-bai.github.io/) (undergrad at McGill). We show how to optimize/select conformity scores in Conformal Selection to pick out as many "interesting" instances as possible (e.g., [active drugs](https://arxiv.org/abs/2210.01408), [trustable LLM outputs](https://arxiv.org/abs/2405.10301)) while maintaining FDR control -- even without sample splitting! 
+<p style="margin-top: 0px; margin-bottom: -5px;"></p> 
+- **Sept 2024**: Outputs from black-box foundation models must align with human values before use. For example, can we ensure only *human-quality* AI-generated medical reports are deferred to doctors? Our paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) is accepted to NeurIPS 2024!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **Sept 2024**: I'm thrilled to receive the 2025 [IMS Lawrence D. Brown PhD student award](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
