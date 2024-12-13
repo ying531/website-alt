@@ -61,6 +61,9 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
+
+- **Dec 2024**: Recent empirical investigations have challenged the sufficiency of covariate shift adjustment for generalization under distribution shift. How to address what remained unexplained? Analyzing two large-scale multi-site replication projects, our [new paper](https://arxiv.org/abs/2412.08869) suggests a *predictive* role of covariate shift: it informs the strength of unknown conditional shift, which helps generalization! 
+<p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **Nov 2024**: Excited to share new work on [Optimized Conformal Selection](https://arxiv.org/abs/2411.17983) with amazing collaborator [Tian Bai](https://tian-bai.github.io/) (undergrad at McGill). We show how to optimize/select conformity scores in Conformal Selection to pick out as many "interesting" instances as possible (e.g., [active drugs](https://arxiv.org/abs/2210.01408), [trustable LLM outputs](https://arxiv.org/abs/2405.10301)) while maintaining FDR control -- even without sample splitting! 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 - **Sept 2024**: Outputs from black-box foundation models must align with human values before use. For example, can we ensure only *human-quality* AI-generated medical reports are deferred to doctors? Our paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) is accepted to NeurIPS 2024!
