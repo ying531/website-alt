@@ -20,22 +20,32 @@ layout: archive
 ## Papers by year
 <p style="margin-bottom: -10px;"> </p>
 
+
+<span style="font-size:13px">(* equal contribution or alphabetical order)</span>
+
+
+<p style="margin-bottom: -10px;"> </p>
+
 #### 2024
 
 <p style="margin-bottom: 20px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Beyond reweighting: On the predictive role of covariate shift in effect generalization</span>   
  <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px;">, <span style="font-size:13px;">Naoki Egami, and Dominik Rothenhäusler, 2024. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span> 
- 
+
+<p style="margin-bottom: -5px;"> </p>
  
 <span style="font-size:15px;font-weight: 600;">Optimized Conformal Selection: Powerful selective inference after conformity score optimization</span>   
  <span style="font-size:13px;">Tian Bai and </span><span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px;">, 2024. [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span> 
 
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Conformal alignment: Knowing when to trust foundation models with guarantees</span>   
  <span style="font-size:13px;">Yu Gui\*, </span><span style="font-size:13px;font-weight:500;">Ying Jin\*</span><span style="font-size:13px;"> and Zhimei Ren\*, 2024.</span>    
  <span style="color:grey;font-size:13px;">Conference on Neural Information Processing Systems (NeurIPS), 2024.</span> <span style="font-size:13px;">[Arxiv](https://arxiv.org/abs/2405.10301) | [GitHub](https://github.com/yugjerry/conformal-alignment)</span> 
- 
+
+<p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:15px;font-weight: 600;">Confidence on the focal: Conformal prediction with selection-conditional coverage</span>   
  <span style="font-size:13px;font-weight:500;">Ying Jin\*</span><span style="font-size:13px;"> and Zhimei Ren\*, 2024. [Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
  
@@ -52,18 +62,20 @@ layout: archive
   <span style="font-size:13px;font-weight:500;">Ying Jin\*</span><span style="font-size:13px;">, Kevin Guo\*, and Dominik Rothenhäusler, 2023.</span>   
   <span style="font-size:13px;">[Arxiv](https://arxiv.org/abs/2309.01056) | [awesome-replicability-data](https://github.com/ying531/awesome-replicability-data) | [R package](https://github.com/ying531/repDiagnosis) | [shiny app](https://mbzlnj-ying-jin.shinyapps.io/shiny/)</span>
 
+<p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:15px;font-weight: 600;">Model-free selective inference under covariate shift via weighted conformal p-values</span>    
   <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px;"> and Emmanuel Candès, 2023.</span>   
   <span style="font-size:13px;">[Arxiv](https://arxiv.org/abs/2307.09291) | [software and reproduction code](https://github.com/ying531/conformal-selection)</span>
 
-
+<p style="margin-bottom: -5px;"> </p>
 
 
 <span style="font-size:15px;font-weight: 600;">Uncertainty quantification over graph with conformalized graph neural networks</span>         
   <span style="font-size:13px;">Kexin Huang, </span><span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px;">, Emmanuel Candès, and Jure Leskovec.</span>  
     <span style="color:grey;font-size:13px;">Conference on Neural Information Processing Systems (NeurIPS), 2023</span>  <span style="font-size:13px;">(**Spotlight**)</span>. 
     <span style="font-size:13px;">[Arxiv](https://arxiv.org/abs/2305.14535) | [GitHub](https://github.com/snap-stanford/conformalized-gnn)</span>
-
+ 
 
 <p style="margin-bottom: 20px;"> </p>
 ----
@@ -77,23 +89,25 @@ layout: archive
   <span style="font-size:13px;font-weight:500;">Ying Jin\*</span><span style="font-size:13px;">, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang, 2022.</span>    
   <span style="font-size:13px;">[Arxiv](https://arxiv.org/abs/2212.09900) | *Fun read:* [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240)</span>
 
+<p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:15px;font-weight: 600;">Modular regression: improving linear models by incorporating auxiliary data</span>          
   <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px"> and Dominik Rothenhäusler.</span>    
   <span style="color:grey;font-size:13px;">Journal of Machine Learning Research (JMLR), 2023.</span>  <span style="font-size:13px">[Arxiv](https://arxiv.org/abs/2211.10032)</span>
 
-
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Selection by prediction with conformal p-values</span>         
   <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px"> and Emmanuel Candès.</span>      
   <span style="color:grey;font-size:13px;">Journal of Machine Learning Research (JMLR), 2023.</span> <span style="font-size:13px">[Arxiv](https://arxiv.org/abs/2210.01408) | [Reproduction code](https://github.com/ying531/selcf_paper)</span>
 
-
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Upper bounds on the Natarajan dimensions of some function classes</span>       
   <span style="font-size:13px;font-weight:500;">Ying Jin.</span>    
   <span style="color:grey;font-size:13px;">IEEE International Symposium on Information Theory (ISIT), 2023.</span>  <span style="font-size:13px">[Arxiv](https://arxiv.org/pdf/2209.07015.pdf) | [Slides](/assets/files/slides_natarajan.pdf)</span>  
 
-
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective</span>        
   <span style="font-size:13px;font-weight:500;">Ying Jin\*</span><span style="font-size:13px;">, Zhimei Ren\*, and Zhengyuan Zhou, 2022. [Arxiv](https://arxiv.org/abs/2203.04373)</span>  
@@ -114,6 +128,7 @@ layout: archive
   <span style="font-size:13px">[Arxiv](https://arxiv.org/abs/2111.12161) | [Software](https://github.com/zhimeir/cfsensitivity) | [Reproduction code](https://github.com/ying531/cfsensitivity_paper/blob/main/README.md) | [Website](https://zhimeir.github.io/cfsensitivity/) | [OCIS talk](https://www.youtube.com/watch?v=aM3auY7kgSA) | [Commentary from Chernozhukov et al.](https://www.pnas.org/doi/full/10.1073/pnas.2300458120)</span>    
   <span style="font-size:13px">*Runner up for Tom Ten Have Award at American Causal Inference Conference (ACIC), 2022*.</span>  
 
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Towards optimal variance reduction in online controlled experiments</span>        
   <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px"> and Shan Ba. (2021 summer internship project at LinkedIn) </span>   
@@ -121,7 +136,7 @@ layout: archive
   <span style="font-size:13px">*2024 Jack Youden Prize for the best expository paper in Technometrics*.</span>
 
 
-
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Contemporary symbolic regression methods and their relative performance</span>        
   <span style="font-size:13px">William La Cava, P. Orzechowski, B. Burlacu, F. Olivetti de Franca, M. Virgolin,</span> <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px">, M. Kommenda and J. Moore, 2021.</span>    
@@ -151,9 +166,6 @@ layout: archive
  
 
 
-<span style="font-size:13px">(* equal contribution or alphabetical order)</span>
-
-
 <p style="margin-bottom: 20px;"> </p>
 ---
 
@@ -174,7 +186,7 @@ layout: archive
   <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px">, Zhaoran Wang, and Junwei Lu.</span>  
  <span style="color:grey;font-size:13px;">International Conference on Machine Learning (ICML), 2020</span>. <span style="font-size:13px">[PMLR](http://proceedings.mlr.press/v119/jin20g.html)</span>
 
-
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Bayesian symbolic regression</span>    
   <span style="font-size:13px;font-weight:500;">Ying Jin</span><span style="font-size:13px">, Weilin Fu, Jian Kang, Jiadong Guo, and Jian Guo. (undergrad internship project)</span>   
