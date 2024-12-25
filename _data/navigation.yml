@@ -5,7 +5,7 @@ main:
   # - title: "Research"
   #   url: /research/
   - title: "Publications"
-    url: /publication/
+    url: /publication_year/
   - title: "Talks"
     url: /talk/
   - title: "Teaching"
