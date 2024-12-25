@@ -1,5 +1,5 @@
 ---
-title:  
+title: Research
 permalink: /publication_year/ 
 classes: wide
 layout: archive
