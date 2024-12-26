@@ -95,7 +95,4 @@ Beyond academics, I love traveling and photography in my free time. See my [phot
  
 
     
-
-
----- 
-
+ 

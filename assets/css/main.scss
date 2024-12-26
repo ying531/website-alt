@@ -110,6 +110,13 @@ html {
     }
   }
 
+  .centered-content figure {
+    display: flex;
+    flex-direction: column; /* Ensure caption stays below the image */
+    align-items: center;    /* Horizontally centers the image and caption */
+    margin: 20px auto;      /* Centers the figure itself and adds vertical spacing */
+  }
+
 
   // .pubitem {
   //   margin-bottom: 2em;
